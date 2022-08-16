@@ -1,6 +1,6 @@
 <h2 align="center">Hello there 👋</h2>
 
-<p align="center">I'm Kure.<br/> Computer Scientist, Network Engineer and a <b>huge</b> fan of Linux and Open Source</p>
+<p align="center">I'm a Coder and a<br/> Computer Hobbyist, I <b>love</b> Linux and Open Source Software</p>
 </p>
 ## My GitHub Stats &#x1f4c8;
 
