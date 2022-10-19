@@ -2,7 +2,7 @@
 
 <p align="center">I'm a Coder and a<br/> Computer Hobbyist, I <b>love</b> Linux and Open Source Software</p>
 </p>
-## My GitHub Stats &#x1f4c8;
+<h2> My GitHub Stats &#x1f4c8;</h2>
 
 <a href="https://github.com/kurepeter/kurepeter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurepeter&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
